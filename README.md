@@ -33,10 +33,12 @@ Here are some ideas to get you started:
   <img
     src="https://github-readme-stats-mu-six-39.vercel.app/api?username=rmitsui0522&show_icons=true&locale=en&count_private=true&hide=stars"
     alt="rmitsui0522"
+    height="150"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rmitsui0522&locale=en&langs_count=3"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rmitsui0522&locale=en&langs_count=5&layout=compact"
     alt="rmitsui0522"
+    height="150"
   />
 </p>
 <p>
@@ -80,27 +82,10 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <br/>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
       width="40"
       height="40"
     />
@@ -117,43 +102,6 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <br/>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://firebase.google.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
       width="40"
       height="40"
     />
