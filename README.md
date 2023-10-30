@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img
+<!--   <img
     src="https://github-readme-stats-mu-six-39.vercel.app/api?username=rmitsui0522&show_icons=true&locale=en&count_private=true&hide=stars"
     alt="rmitsui0522"
     height="150"
-  />
+  /> -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rmitsui0522&locale=en&langs_count=5&layout=compact"
     alt="rmitsui0522"
